@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/nalonal/barbarossa"><img src="https://i.ibb.co/fDctKnK/199-1998983-pirates-logo-png-download-transparent-png.png" width="100px" alt="barbarossa"></a>
+  <a href="https://github.com/nalonal/barbarossa"><img src="https://i.ibb.co/fDctKnK/199-1998983-pirates-logo-png-download-transparent-png.png" width="300px" alt="barbarossa"></a>
   <br>
   Barbarossa
   <br>
