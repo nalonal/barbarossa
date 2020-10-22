@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+barbarossa/__init__.py
+barbarossa.egg-info/PKG-INFO
+barbarossa.egg-info/SOURCES.txt
+barbarossa.egg-info/dependency_links.txt
+barbarossa.egg-info/requires.txt
+barbarossa.egg-info/top_level.txt

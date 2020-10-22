@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: barbarossa
+Version: 0.0.2
+Summary: Simple Python to Crawling Google
+Home-page: https://github.com/nalonal/barbarossa
+Author: Rizqy Rionaldy
+Author-email: rionaldyrizqy@gmail.com
+License: UNKNOWN
+Description: # barbarossa
+        
+        <h2>Python Google Crawler</h2>
+        <p>Simple script to crawling google using <a href="https://developers.facebook.com/tools/debug/echo/?q=">Facebook Developers Tools Debug</a></p>
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

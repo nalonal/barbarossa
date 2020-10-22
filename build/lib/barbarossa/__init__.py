@@ -6,6 +6,7 @@ class_list_of_search = '.ZINbbc'
 class_link_of_search = '.kCrYT a'
 class_desc_of_search = '.BNeawe'
 
+
 def decode(string):
 	this_string = string
 	decode_string = ['<', '"', '\'', '>', '&',]

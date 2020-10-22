@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="barbarossa", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Rizqy Rionaldy",
     author_email="rionaldyrizqy@gmail.com",
     description="Simple Python to Crawling Google",
