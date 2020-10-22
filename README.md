@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/nalonal/barbarossa"><img src="https://i.ibb.co/fDctKnK/199-1998983-pirates-logo-png-download-transparent-png.png" width="300px" alt="barbarossa"></a>
+  <a href="https://github.com/nalonal/barbarossa"><img src="https://i.ibb.co/fDctKnK/199-1998983-pirates-logo-png-download-transparent-png.png" width="400px" alt="barbarossa"></a>
   <br>
   Barbarossa
   <br>
@@ -12,7 +12,7 @@ Python Google Crawler
 <p>Simple script to crawling google using <a href="https://developers.facebook.com/tools/debug/echo/?q=">Facebook Developers Tools Debug</a></p>
 
 ### Introduction
-I learn to create simple code to crawling google search, get inspired from [s0md3v](https://github.com/s0md3v/goop) but i use another technique to parse the code, thankyou very much to share great code. So basicly this tools srape Google using Facebook [debugger tool](https://developers.facebook.com/tools/debug/echo/?q=https://example.com). This tools can scrape google search results without being blocked by the CAPTCHA. This tools also no need delay time to scrape. Love it.
+I learn to create simple code to crawling google search, get inspired from [s0md3v](https://github.com/s0md3v/goop), but i use another technique to parse the code. By the way thankyou very much to share great code. So basicly this tools srape Google using Facebook [debugger tool](https://developers.facebook.com/tools/debug/echo/?q=https://example.com). This tools can scrape google search results without being blocked by the CAPTCHA. This tools also no need delay time to scrape. Love it.
 
 ### Usage
 #### Installation
