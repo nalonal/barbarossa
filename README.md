@@ -20,9 +20,8 @@ I learn to create simple code to crawling google search. I get inspired from [s0
 pip install barbarossa
 ```
 #### Get Facebook Cookie
-in Facebook Website:
-<br>press (CTRL + i ) or (CTRL + Shift + i)
-<br><img src="https://i.ibb.co/DV3SZTL/cookie.png" width="400px" alt="cookie">
+open [Facebook Developers Tools](https://developers.facebook.com/tools/) in browser and press Ctrl+i or Ctrl+Shift+i
+![enter image description here](https://i.ibb.co/zPjp4WT/cookie.png)
 
 #### Tools Use
 ```python
