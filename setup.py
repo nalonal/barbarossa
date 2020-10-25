@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="barbarossa", # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="Rizqy Rionaldy",
     author_email="rionaldyrizqy@gmail.com",
     description="Simple Python to Crawling Google",
@@ -19,5 +19,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-    install_requires=['bs4']
+    install_requires=['bs4','requests']
 )

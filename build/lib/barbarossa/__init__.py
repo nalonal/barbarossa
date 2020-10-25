@@ -1,11 +1,10 @@
 import requests
-from urllib.parse import quote
+import urllib.parse
 from bs4 import BeautifulSoup
 
 class_list_of_search = '.ZINbbc'
 class_link_of_search = '.kCrYT a'
 class_desc_of_search = '.BNeawe'
-
 
 def decode(string):
 	this_string = string
@@ -19,8 +18,8 @@ def decode(string):
 
 def encode(string):
 	this_string = string
-	decode_string = ['+','&lt;', '&quot;', '&#039;', '&gt;', '&amp;']
-	encode_string = [' ','<', '"', '\'', '>', '&',]
+	decode_string = ['+']
+	encode_string = [' ']
 	for e_string, d_string in zip(encode_string, decode_string):
 		this_string = this_string.replace(e_string, d_string)
 	for e_string, d_string in zip(encode_string[::-1], decode_string[::-1]):
@@ -40,7 +39,7 @@ def cleansing(perlink, persummary):
 
 def google(cookie, keyword, num):
 	this_search = []
-	this_keyword = quote(encode(keyword))
+	this_keyword = urllib.parse.quote(encode(keyword),encoding='utf-8')
 	headers = {
 	    'Host': 'developers.facebook.com',
 	    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0',
